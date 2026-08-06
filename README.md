@@ -21,18 +21,18 @@ Full-stack engineering, applied ML, and embedded IoT.
 
 ## Selected work
 
-**[healthcare-qa-chatbot](https://github.com/kbssrikar7/healthcare-qa-chatbot)** · [live](https://mediquery-healthcare.vercel.app)
+**[healthcare-qa-chatbot](https://mediquery-healthcare.vercel.app)**
 Explainable healthcare QA — LLM + RAG + XAI, source-cited answers.
 `Python` `FastAPI` `LangChain` `LangGraph` `Qdrant`
 
-**[led_control_deploy](https://github.com/kbssrikar7/led_control_deploy)** · [live](https://ledcontroldeploy.vercel.app)
+**[led_control_deploy](https://ledcontroldeploy.vercel.app)**
 Admin dashboard and OTA pipeline for a fleet of ESP32 IoT devices.
 `JavaScript` `MQTT` `Vercel`
 
-**[StudyFlow](https://github.com/kbssrikar7/StudyFlow--AI_Powered_Productivity_Suite)** · [live](https://studyflow-app-pearl.vercel.app)
+**[StudyFlow](https://studyflow-app-pearl.vercel.app)**
 Full-stack productivity suite — focus timer, task board, AI assistant.
 `React` `FastAPI` `PostgreSQL`
 
-**[handwritten-equation-solver](https://github.com/kbssrikar7/handwritten-equation-solver)** · [live](https://simple-math-solver.vercel.app)
+**[handwritten-equation-solver](https://simple-math-solver.vercel.app)**
 Custom CNN recognizing and solving handwritten equations.
 `Python` `TensorFlow` `FastAPI` `Next.js`
