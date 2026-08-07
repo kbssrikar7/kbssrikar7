@@ -35,10 +35,10 @@
     <rect x="70" y="30" width="10" height="10" /><rect x="90" y="30" width="10" height="10" />
 
     <!-- eyes: filled briefly to blink -->
-    <rect x="20" y="10" width="10" height="10">
+    <rect x="20" y="10" width="10" height="10" opacity="0">
       <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.90;0.94;0.98;1" dur="3.4s" repeatCount="indefinite" />
     </rect>
-    <rect x="80" y="10" width="10" height="10">
+    <rect x="80" y="10" width="10" height="10" opacity="0">
       <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.90;0.94;0.98;1" dur="3.4s" repeatCount="indefinite" />
     </rect>
   </g>
