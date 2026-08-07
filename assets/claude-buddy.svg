@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="120" height="90" role="img" aria-label="A small animated buddy waving hello">
+  <title>Claude buddy</title>
+
+  <ellipse cx="80" cy="104" rx="30" ry="6" fill="#000000" opacity="0.12">
+    <animate attributeName="rx" values="30;24;30" dur="1.2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.12;0.07;0.12" dur="1.2s" repeatCount="indefinite" />
+  </ellipse>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="1.2s" repeatCount="indefinite" />
+
+    <g transform="rotate(-8 108 58)">
+      <animateTransform attributeName="transform" type="rotate" values="-8 108 58; 22 108 58; -8 108 58" dur="1s" repeatCount="indefinite" />
+      <ellipse cx="110" cy="46" rx="7" ry="12" fill="#D97757" />
+    </g>
+
+    <ellipse cx="80" cy="68" rx="38" ry="34" fill="#D97757" />
+
+    <circle cx="68" cy="60" r="6.5" fill="#FDF6EC" />
+    <circle cx="92" cy="60" r="6.5" fill="#FDF6EC" />
+
+    <g>
+      <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.92;0.95;0.98;1" dur="3.2s" repeatCount="indefinite" />
+      <circle cx="69" cy="61" r="2.6" fill="#3D3929" />
+      <circle cx="93" cy="61" r="2.6" fill="#3D3929" />
+    </g>
+
+    <path d="M 68 78 Q 80 87 92 78" fill="none" stroke="#3D3929" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>
