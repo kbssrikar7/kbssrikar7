@@ -2,7 +2,7 @@
   <title>Sailing Clawd</title>
 
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" dur="4s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.37 0 0.63 1;0.37 0 0.63 1" dur="4s" repeatCount="indefinite" />
 
     <rect x="150" y="0" width="10" height="10" fill="#915C1A"/>
       <rect x="50" y="50" width="80" height="10" fill="#D97757"/>
@@ -44,7 +44,7 @@
 
     <g transform="translate(130,80)">
       <g>
-        <animateTransform attributeName="transform" type="skewX" values="0;4;0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" dur="4s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="skewX" values="0;4;0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.37 0 0.63 1;0.37 0 0.63 1" dur="4s" repeatCount="indefinite" />
         <g transform="translate(-130,-80)">
           <rect x="130" y="10" width="10" height="10" fill="#C46686"/>
       <rect x="140" y="10" width="10" height="10" fill="#F5F4ED"/>
