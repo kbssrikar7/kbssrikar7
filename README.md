@@ -9,6 +9,9 @@ Full-stack engineering, applied ML, and embedded IoT.
 <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/claude-buddy-confetti.svg" width="80" alt="Clawd stomping with confetti" />
 <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/claude-buddy-boat.svg" width="90" alt="Clawd sailing a boat" />
 <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/claude-buddy-racing.svg" width="90" alt="Clawd racing a go-kart" />
+<img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/claude-buddy-grooving.svg" width="80" alt="Clawd grooving to music with headphones" />
+<img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/claude-buddy-eureka.svg" width="90" alt="Clawd having a eureka idea moment" />
+<img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/claude-buddy-wizard.svg" width="90" alt="Clawd's wizard hat wobbling in a magical mishap" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
