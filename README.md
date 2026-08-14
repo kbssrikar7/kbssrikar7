@@ -1,12 +1,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-slate.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-cream.svg">
-  <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-cream.svg" width="150" alt="Pixel-art portrait" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-light.svg">
+  <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-light.svg" width="720" alt="Pixel-art portrait" />
 </picture>
 
-# Kasilanka Bhoopesh Siva Srikar
+# K.B.S Srikar
 
 Full-stack engineering, applied ML, and embedded IoT.
 
