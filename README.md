@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- swap to assets/portrait-slate.svg for the dark backdrop version -->
+<img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-cream.svg" width="150" alt="Pixel-art portrait" />
+
 # Kasilanka Bhoopesh Siva Srikar
 
 Full-stack engineering, applied ML, and embedded IoT.
