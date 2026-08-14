@@ -27,6 +27,10 @@ Full-stack engineering, applied ML, and embedded IoT.
 
 ## Selected work
 
+**[headphonesafety](https://github.com/kbssrikar7/headphonesafety)**
+Brings iOS's "Reduce Loud Sounds" hearing protection to the desktop — real-time peak limiter and volume cap, shipping on macOS and Linux.
+`Swift` `Rust` `CoreAudio` `PipeWire`
+
 **[healthcare-qa-chatbot](https://mediquery-healthcare.vercel.app)**
 Explainable healthcare QA — LLM + RAG + XAI, source-cited answers.
 `Python` `FastAPI` `LangChain` `LangGraph` `Qdrant`
