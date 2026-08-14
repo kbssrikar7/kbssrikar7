@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-light.svg">
-  <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-light.svg" width="720" alt="Pixel-art portrait" />
+  <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/portrait-light.svg" width="620" alt="Pixel-art portrait" />
 </picture>
 
 # K.B.S Srikar
