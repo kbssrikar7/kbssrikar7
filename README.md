@@ -7,7 +7,7 @@ Full-stack engineering, applied ML, and embedded IoT.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/stack-light.svg">
-  <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/stack-light.svg" width="660" alt="Python, TypeScript, JavaScript, Java, C++, Rust, Swift, Ruby, React, Next.js, FastAPI, Django, Rails, TensorFlow, Jupyter, Tauri, PostgreSQL, Supabase, Docker, Linux, Arduino, MQTT, Vercel, Azure" />
+  <img src="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/stack-light.svg" width="660" alt="Python, TypeScript, JavaScript, Java, C++, Rust, Swift, Ruby, React, Next.js, FastAPI, Django, Rails, TensorFlow, Jupyter, Tauri, PostgreSQL, Supabase, Docker, Linux, Arduino, MQTT, Vercel, Azure, n8n, AWS" />
 </picture>
 
 </div>
