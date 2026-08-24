@@ -33,9 +33,9 @@ Custom CNN recognizing and solving handwritten equations.
 `Python` `TensorFlow` `FastAPI` `Next.js`
 
 **[MediQuery](https://mediquery-healthcare.vercel.app)**
-RAG healthcare Q&A system over a 500k-document medical knowledge base, with hybrid dense+BM25 retrieval, multi-signal confidence scoring, and safety guardrails (emergency detection, drug-interaction checks). Not a clinical tool.
+RAG healthcare Q&A with hybrid retrieval, confidence scoring, and safety guardrails.
 `Next.js` `FastAPI` `LangChain` `Qdrant` `Docker`
 
 **[n8n-upi-payment-gateway-django](https://github.com/kbssrikar7/n8n-upi-payment-gateway-django)**
-Self-hosted, direct-to-bank UPI payment gateway with dynamic QR generation and unique-amount matching — confirms payment by parsing bank credit-alert emails via an n8n workflow instead of a payment aggregator.
+Self-hosted UPI payment gateway that confirms payment via bank alert emails, no aggregator.
 `Django` `Python` `n8n` `Webhooks`
