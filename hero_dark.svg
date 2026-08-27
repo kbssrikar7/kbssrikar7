@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="769" height="190" viewBox="0 0 769 190" role="img" aria-label="K.B.S Srikar - Full-stack engineering, applied ML, and embedded IoT">
+<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="278" viewBox="0 0 1125 278" role="img" aria-label="K.B.S Srikar - Full-stack engineering, applied ML, and embedded IoT">
   <defs>
     <style>
       @font-face {
         font-family: 'Geist Pixel Square';
         src: url(data:font/woff2;base64,d09GMgABAAAAAAR8AA4AAAAADUAAAAQoAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmAAgRIRCAqTCI97ATYCJAOBAAtCAAQgBQYHIBt6ClEEGwcKgXkCxRcHthOaoRQRkUfbc3KQ0U/l385y7YRMtuLhv/1o9838NVGsikkUsQiJtIlDEyuJKqFugyweqftNWq6ZJEvJ7HLC0BQa4XAoZO2v5Of/PgA8T1P1y0k6rmMJdsyHuxZgejSiFaD+NMIG1IeNC/DRCgtg4eJ4jJ23oO+Q/1tr9c9hnnjXEG+EeI2LpIz/3WFWbjCR5LODWSZfAw/VLbQrEeuURMR3e61znkgMD0mj7f67sQL1Fk8nSWgSWvQKgVr9BsX2nfuPq1ZAWQag2EnT0vEab5x9cEs3StxepKl4qoK0lI7YZx0nTlkbmyxpw7tOHt2230fDHuZ/K58pNscSaE/taXnisIxEFtsui4jCY0/1apbVGrZoq532OOC4iy676o6HpRg2D8Tuc8zZ8OvuPcmUH9xUmHDNOAp00z1gUD8WG6WavIbJZpj/YX5G/oT66+eR8WyZyYBUWeJ5WlWIQ6+K4Te4W2J949Zg/vvW57svf4Zy9+nL8v3+og3WonFPNt2/sXxsa5Elj1BpEORYismKDKSk0X+7exRJ9CipZthVFNubmDkjHeWcLEXKxTR0JWtjVNCQOFBvS/lyHgCMkElSVNQT40BqdGUryU6JilN4toiPIUCgCiCJB6cpX6UsAm+Ikc4lslXzcEDzI3q0XJGsIsyXRSRRWVKlmWyjo2mH7jqeRoUCdptM14wS5dlowuNLH17+4JSPoUoyhUJozi5dpOhXWMFAXjnZ5aorYy2uuu4Qxd8NCHg4b2NHRR8w27kMB1T8al5N+GS0wschZ0zITHrLHbtO/npmBXSRe+G2u4NLdw+P7g4264iSaP7LlC0RoAHI7ctSFkAChOviXEbH9+HqGq6OLOkUC2qFRP5oocRm9TAbU0+i67QqSX/cS5Kk+QmIGvt3puMoUHWPpKFsNqhuChtUs6pEUHldIcr/V3u3g2GoIA2JNlASLBx3ZVagLjdAjL2ssF27l7TKxEaDAgoVGcOwfLuqwuoorM78tDyufA8trjqKroKqRClG6izbmcJ2vPe9OXpyL0k9dhs64cmkQRF0Hdtvx5zTtqTh6vIa5K+ghCoEP7sTwAqP8VSWGNUsjSLVq5ZOvUTHKU6nUNDpc7I+B5Eq3DJ28smJ47D5l+Kyu4yH95BKnbV65pgO/4A03p0kz++FaxnlGvzdwPpKbk7KnbEfZjXNap2r97F1cc+lt4dmpH2Qmb84fox8dwTi3W3fG+/+pBm7hUgzKg3dIzBJnEzLAsHzm1cPTjet/z/o8k/49m60H76ve9TnS9kf0/k9KiUQ/PFoB5GAlVPoKyy9w6k90ICfY2LjbiJKd9cskgBlzD43saKmsJtLu5k0TZdfw0fbLbD7D46NaEE0JhmASfGjYU+0O6VSWHhB5rLeeafyVWtlAAA=) format('woff2');
       }
-      .big { font-family: 'Geist Pixel Square', monospace; font-size: 60px; letter-spacing: 4px; fill: #c9d1d9; }
-      .small { font-family: 'Geist Pixel Square', monospace; font-size: 22px; letter-spacing: 1.5px; fill: #8b949e; }
+      .big { font-family: 'Geist Pixel Square', monospace; font-size: 87.77633289986996px; letter-spacing: 5.851755526657997px; fill: #c9d1d9; }
+      .small { font-family: 'Geist Pixel Square', monospace; font-size: 32.184655396618986px; letter-spacing: 2.194408322496749px; fill: #8b949e; }
     </style>
   </defs>
-  <rect x="0.5" y="0.5" width="768" height="189" rx="8" fill="#0d1117" stroke="#30363d"/>
-  <text x="384.5" y="90" text-anchor="middle" class="big">K.B.S Srikar</text>
-  <line x1="164" y1="118" x2="604" y2="118" stroke="#3d444d" stroke-width="2"/>
-  <text x="384.5" y="150" text-anchor="middle" class="small">Full-stack engineering, applied ML, and embedded IoT.</text>
+  <rect x="0.5" y="0.5" width="1124" height="277" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="562.5" y="132" text-anchor="middle" class="big">K.B.S Srikar</text>
+  <line x1="342" y1="173" x2="782" y2="173" stroke="#3d444d" stroke-width="2"/>
+  <text x="562.5" y="219" text-anchor="middle" class="small">Full-stack engineering, applied ML, and embedded IoT.</text>
 </svg>
