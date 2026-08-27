@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="220" viewBox="0 0 1125 220" role="img" aria-label="kbssrikar7 GitHub profile banner">
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Geist Pixel Square';
+        src: url(data:font/woff2;base64,d09GMgABAAAAAAM8AA4AAAAACMAAAALsAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmAAZBEICosQiSABNgIkA0gLJgAEIAUGByAbswZRlKzFV5IvEnhTrbgb+8TJxvCoikhTxPt4+P/9vu1z7xt7MoOajFlCLRGh4YkUJhNZEzKRLB6p/P4HiPcM/9GZox0uaB/nsID2a1Y8qxkO8GIjemrLAV5u/vtzllf235+qP7HUUmypF5CAxhrBXoXef/fSMRZOamkNLAYjGMCOzRM8JLX65rvhAW/m79ZUdPKFQwI1IAmhRwiUllgmzpzrHdWpgJaARFlng2Sv+9H1p08sEAoeF2l9vNdGepcmcblvJ67YFccp//DU+PDpXtO2wlj++z/FiXgnu5vmpE9YISNxUubIQi4M9meYIX+O73fKRb0GjbVA9UlnXTZg+LeuaR+ddltBOROipR4wC6zBXNIs0lZAAUiSED0hCBJ/pV6zoq7LXWVdnGtfs6SetelI55IVd6OMEgdUcSsqDRC6os63NYiJVTjZiJB9d1ITlVByeab2YQnHYopOzCdzpFQTg4hzLOH9GqU6ypiIJvkEGqlSk6uizATjaIHMq2C9Ulvpy8gpvZk0cgvZpNIJjsm7dquZ0imc58XKTtSpiVttK2NRpwqCPERGLEI8F1wBFBGv50V4vTqMtDOatjJ6lMVETPoKGRnCOFTHpvUCu02f/fOYycpkqEwQM0VEBEgz0hyHTXdCemNvEK+OUNKFSjxGd5AyYLHvp6ih8JBN3PCk1Nj0FsI504PiZgCIkG/W4Ld/nmqS1lgx3Wqi6VVTpInsbePtKBNpSoNVljSi7spyCaUo1s0wM69nAcp4HdTtu67DMO7OuK5cDggl9cY03YKSXsgGQc1Vqd/Y9NIuZHAL7gcpfNFKekllEC0NSNyi7HPMl6qn6lJZa9CQKh+HKqrbVfc+xqcd+gvAyXkuFBAIDt7ftas9R/519uQf8PWzagl8658v9tmSYkP+gHYJBH/ZcL9AmskPan5WeqU3XbOuL/emQ5Up634Wvb5gHLNXIbvYlM2f1sUzBGZ5YY4r2gXlKQRvuyxYq3YB) format('woff2');
+      }
+      .big { font-family: 'Geist Pixel Square', monospace; font-size: 72px; letter-spacing: 6px; fill: #c9d1d9; }
+      .small { font-family: 'Geist Pixel Square', monospace; font-size: 20px; letter-spacing: 10px; fill: #ffa657; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="1124" height="219" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="562" y="118" text-anchor="middle" class="big">KBSSRIKAR7</text>
+  <line x1="462" y1="148" x2="662" y2="148" stroke="#3d444d" stroke-width="2"/>
+  <text x="562" y="180" text-anchor="middle" class="small">GITHUB PROFILE</text>
+</svg>

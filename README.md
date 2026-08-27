@@ -1,4 +1,10 @@
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="banner_light.svg" />
+  <img alt="kbssrikar7" src="banner_dark.svg" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="kbssrikar7's GitHub profile" src="dark_mode.svg" />
