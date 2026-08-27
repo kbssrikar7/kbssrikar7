@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="banner_light.svg" />
-  <img alt="kbssrikar7" src="banner_dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="hero_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="hero_light.svg" />
+  <img alt="K.B.S Srikar - Full-stack engineering, applied ML, and embedded IoT" src="hero_dark.svg" />
 </picture>
 
 <picture>
@@ -11,10 +11,6 @@
 </picture>
 
 <div align="center">
-
-# K.B.S Srikar
-
-Full-stack engineering, applied ML, and embedded IoT.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kbssrikar7/kbssrikar7/main/assets/stack-dark.svg">
