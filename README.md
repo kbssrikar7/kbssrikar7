@@ -4,6 +4,10 @@
   <img alt="K.B.S Srikar - Full-stack engineering, applied ML, and embedded IoT" src="hero_dark.svg" />
 </picture>
 
+<p align="center">
+  <b>Portfolio:</b> <a href="https://kbssrikar7.github.io">kbssrikar7.github.io</a>
+</p>
+
 <div align="center">
 
 <picture>
@@ -17,6 +21,10 @@
 <br>
 
 ## Selected work
+
+**[Developer portfolio](https://github.com/kbssrikar7/kbssrikar7.github.io)** · [live](https://kbssrikar7.github.io)
+My portfolio site: framed project cards, real demo screenshots, and technical write-ups for each project.
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Aceternity UI`
 
 **[headphonesafety](https://github.com/kbssrikar7/headphonesafety)**
 Brings iOS's "Reduce Loud Sounds" hearing protection to macOS, Linux, Windows, and Android — real-time peak limiter and volume cap.
