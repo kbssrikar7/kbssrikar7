@@ -4,10 +4,6 @@
   <img alt="K.B.S Srikar - Full-stack engineering, applied ML, and embedded IoT" src="hero_dark.svg" />
 </picture>
 
-<p align="center">
-  <b>Portfolio:</b> <a href="https://kbssrikar7.github.io">kbssrikar7.github.io</a>
-</p>
-
 <div align="center">
 
 <picture>
