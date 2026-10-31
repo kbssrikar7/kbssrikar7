@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="hero_dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="hero_light.svg" />
-  <img alt="K.B.S Srikar - Full-stack engineering, applied ML, and embedded IoT" src="hero_dark.svg" />
+  <img alt="K.B.S Srikar - Full-stack engineering, applied ML, embedded IoT, and open source contributor" src="hero_dark.svg" />
 </picture>
 
 <div align="center">
@@ -17,6 +17,9 @@
 <br>
 
 ## Selected work
+
+**[Focuser](https://github.com/aadeshrao123/Focuser) · Open source contributor**
+Added password and random-text unlocking for protected block lists, plus hidden CLI password prompts. Both contributions merged: [#16](https://github.com/aadeshrao123/Focuser/pull/16), [#42](https://github.com/aadeshrao123/Focuser/pull/42).
 
 **[Developer portfolio](https://github.com/kbssrikar7/kbssrikar7.github.io)** · [live](https://kbssrikar7.github.io)
 My portfolio site: framed project cards, real demo screenshots, and technical write-ups for each project.
