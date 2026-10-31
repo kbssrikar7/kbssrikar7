@@ -21,3 +21,11 @@
 **[Focuser](https://github.com/aadeshrao123/Focuser) · [Open source contribution](https://github.com/aadeshrao123/Focuser/pulls?q=is%3Apr+is%3Amerged+author%3Akbssrikar7)**
 Added password protection, random-text unlocking, and hidden CLI password prompts.
 `Rust` `TypeScript` `React` `Tauri` `SQLite`
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/yalongwastaken/git-koi">
+    <img src="koi/koi.gif" width="256" alt="A pixel-art koi shaped by my public GitHub activity" />
+  </a>
+</p>
