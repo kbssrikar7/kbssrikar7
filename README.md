@@ -16,36 +16,8 @@
 
 <br>
 
-## Selected work
+## Open source contributions
 
 **[Focuser](https://github.com/aadeshrao123/Focuser) · [Open source contribution](https://github.com/aadeshrao123/Focuser/pulls?q=is%3Apr+is%3Amerged+author%3Akbssrikar7)**
 Added password protection, random-text unlocking, and hidden CLI password prompts.
 `Rust` `TypeScript` `React` `Tauri` `SQLite`
-
-**[Developer portfolio](https://github.com/kbssrikar7/kbssrikar7.github.io)** · [live](https://kbssrikar7.github.io)
-My portfolio site: framed project cards, real demo screenshots, and technical write-ups for each project.
-`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Aceternity UI`
-
-**[headphonesafety](https://github.com/kbssrikar7/headphonesafety)**
-Brings iOS's "Reduce Loud Sounds" hearing protection to macOS, Linux, Windows, and Android — real-time peak limiter and volume cap.
-`Swift` `Rust` `C++` `Kotlin` `CoreAudio` `PipeWire` `WASAPI`
-
-**[led_control_deploy](https://ledcontroldeploy.vercel.app)**
-Admin dashboard and OTA pipeline for a fleet of ESP32 IoT devices.
-`JavaScript` `MQTT` `Vercel`
-
-**[StudyFlow](https://studyflow-app-pearl.vercel.app)**
-Full-stack productivity suite — focus timer, task board, AI assistant.
-`React` `FastAPI` `PostgreSQL`
-
-**[handwritten-equation-solver](https://simple-math-solver.vercel.app)**
-Custom CNN recognizing and solving handwritten equations.
-`Python` `TensorFlow` `FastAPI` `Next.js`
-
-**[MediQuery](https://mediquery-healthcare.vercel.app)**
-RAG healthcare Q&A with hybrid retrieval, confidence scoring, and safety guardrails.
-`Next.js` `FastAPI` `LangChain` `Qdrant` `Docker`
-
-**[n8n-upi-payment-gateway-django](https://github.com/kbssrikar7/n8n-upi-payment-gateway-django)**
-Self-hosted UPI payment gateway that confirms payment via bank alert emails, no aggregator.
-`Django` `Python` `n8n` `Webhooks`
