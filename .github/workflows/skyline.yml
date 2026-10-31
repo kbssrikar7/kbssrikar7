@@ -1,0 +1,69 @@
+name: Profile skyline
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/skyline.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-skyline
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Set up Go
+        uses: actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7
+        with:
+          go-version: stable
+          cache: false
+      - name: Draw the monochrome skyline
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p skyline
+          go run github.com/pinkpixel-dev/skyline@3542b1abda4e0ba444cc896114c2ef9aabe2f17b -theme mono -svg skyline/skyline.svg kbssrikar7
+      - name: Save the rendered skyline
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: profile-skyline
+          path: skyline/skyline.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the latest profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+      - name: Download the rendered skyline
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: profile-skyline
+          path: skyline
+      - name: Commit the skyline when it changes
+        shell: bash
+        run: |
+          git add skyline/skyline.svg
+          if git diff --cached --quiet; then
+            echo "The skyline is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile skyline"
+          git push origin HEAD:main
