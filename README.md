@@ -18,8 +18,8 @@
 
 ## Selected work
 
-**[Focuser](https://github.com/aadeshrao123/Focuser) · Open source contributor**
-Added password and random-text unlocking for protected block lists, plus hidden CLI password prompts. Both contributions merged: [#16](https://github.com/aadeshrao123/Focuser/pull/16), [#42](https://github.com/aadeshrao123/Focuser/pull/42).
+**[Focuser](https://github.com/aadeshrao123/Focuser) · [Open source contribution](https://github.com/aadeshrao123/Focuser/pulls?q=is%3Apr+is%3Amerged+author%3Akbssrikar7)**
+Added password protection, random-text unlocking, and hidden CLI password prompts.
 
 **[Developer portfolio](https://github.com/kbssrikar7/kbssrikar7.github.io)** · [live](https://kbssrikar7.github.io)
 My portfolio site: framed project cards, real demo screenshots, and technical write-ups for each project.
