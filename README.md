@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hero_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="hero_light.svg" />
-  <img alt="K.B.S Srikar - Software Engineer · Open Source Contributor" src="hero_dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-header-light.svg" />
+  <img alt="K.B.S Srikar - Software Engineer · Open Source Contributor" src="profile-header-dark.svg" />
 </picture>
 
 <div align="center">
