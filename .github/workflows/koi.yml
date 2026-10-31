@@ -1,0 +1,64 @@
+name: Profile koi
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/koi.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-koi
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Draw koi from public GitHub activity
+        uses: yalongwastaken/git-koi@8a4fb8e69727b905160f27cf11593fb717fa4347 # v1.0.1
+        with:
+          login: kbssrikar7
+          body: white
+          output-dir: koi
+      - name: Save the rendered GIF
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: profile-koi
+          path: koi/koi.gif
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the latest profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+      - name: Download the rendered GIF
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: profile-koi
+          path: koi
+      - name: Commit the koi when it changes
+        shell: bash
+        run: |
+          git add koi/koi.gif
+          if git diff --cached --quiet; then
+            echo "The koi is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile koi"
+          git push origin HEAD:main
