@@ -25,6 +25,12 @@ Added password protection, random-text unlocking, and hidden CLI password prompt
 <br>
 
 <p align="center">
+  <a href="https://github.com/pinkpixel-dev/skyline">
+    <img src="skyline/skyline.svg" width="800" alt="An animated monochrome city built from my GitHub contributions" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/yalongwastaken/git-koi">
     <img src="koi/koi.gif" width="256" alt="A pixel-art koi shaped by my public GitHub activity" />
   </a>
